@@ -1,0 +1,20 @@
+thead tr{
+    background-color: rgb(112, 173, 71);
+}
+thead tr{
+    color: white;
+} 
+tbody tr:nth-child(even) {
+    background-color: rgb(226, 239, 218);
+}
+tfoot tr {
+    background-color: rgb(255, 242, 204);
+
+}
+tfoot tr {
+    color:black;
+    font-weight: bold;
+}
+table{
+    border-collapse: collapse;
+}
